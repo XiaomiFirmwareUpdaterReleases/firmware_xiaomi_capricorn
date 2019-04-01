@@ -1,6 +1,9 @@
 ## Xiaomi Firmware Packages For MI 5S (capricorn)
 
-#### Downloads: [![Download](https://img.shields.io/badge/Downloads-Here-orange.svg)](https://xiaomifirmwareupdater.github.io/#weekly)
+[![Patreon](https://img.shields.io/badge/Patreon-Donate-red.svg)](https://www.patreon.com/XiaomiFirmwareUpdater)
+[![PayPal](https://img.shields.io/badge/PayPal-Donate-blue.svg)](https://www.paypal.me/yshalsager)
+
+#### Downloads: [![Download](https://img.shields.io/badge/Downloads-Here-orange.svg)](https://xiaomifirmwareupdater.com/#weekly)
 
 | ID | MIUI Name | Device Name | Codename |
 | --- | --- | --- | --- |
